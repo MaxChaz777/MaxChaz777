@@ -9,7 +9,7 @@ Some things about me :<br/>
 :one: Programming language developer<br/>
 :two: Full stack developer and IT professional.<br/>
 :three: Proficient with PHP, JavaScript, CSS, C and Python.<br/> 
-:four: .<br/>
+:four: mantainable code<br/>
 :five: I’m currently working on the <br/> 
 :six: Looking for funds to complete my Compiler Project - <a href="https://github.com/One-Language/">One</a>. Support us at <a href="https://github.com/sponsors/One-Language">GitHub Sponsors</a> or <a href="https://www.patreon.com/onelanguage">Patreon</a>.<br/>
 :seven: How to reach me : Mail me at ![](https://chxo.com/labelgen/labelgen.php?textval=+maxbasecode%40gmail.com&font=ARIAL.TTF&size=12&bgcolor=%23ffffff&textcolor=%23000000&submit=create+image)<br/>
@@ -30,6 +30,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=basemax&show_icons=true&locale=en" alt="basemax">
 
 ------
+
+
 
 Credit: [basemax](https://github.com/BaseMax)
 
