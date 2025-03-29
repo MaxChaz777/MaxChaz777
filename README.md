@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 :eight: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
 :nine: Fun fact : Have been developing softwares for most part of my life<br/> 
 
-:one:0 En mis tiempos libres escribo. Escribí dos libros y un ensayo sobre derecho y tecnologías. <br/> 
+ En mis tiempos libres escribo. Escribí dos libros y un ensayo sobre derecho y tecnologías. <br/> 
 
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
