@@ -1,17 +1,17 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=basemax&label=Profile%20views&color=0e75b6&style=flat" alt="basemax">
-<h1 align="center">Hi 👋, I'm Maxi</h1>
+<h1 align="center">Hola 👋, soy Maxi</h1>
 
 Wanna nominate me as a <a href="https://stars.github.com/">GitHub Star</a> ? <a href="https://stars.github.com/nominate/">Here, you go !!</a> (My username is: MaxChaz777)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<b>Welcome !! </b><br/>
-Some things about me :<br/>
-:one: Programming language developer<br/>
-:two: Full stack developer and IT professional.<br/>
-:three: Proficient with PHP, JavaScript, CSS, C and Python.<br/> 
-:four: mantainable code<br/>
-:five: I’m currently working on the <br/> 
-:six: Looking for funds to complete my Compiler Project - <a href="https://github.com/One-Language/">One</a>. Support us at <a href="https://github.com/sponsors/One-Language">GitHub Sponsors</a> or <a href="https://www.patreon.com/onelanguage">Patreon</a>.<br/>
+<b>Bienvenidos !! </b><br/>
+algunas cosas sobre mí :<br/>
+:one: Programador de máquinas industriales ya sea en python o PLC<br/>
+:two: Soy desarrollador Full Stack<br/>
+:three: Soy técnico electromecánico, en Redes, soporte técnico y diseñador gráfico en AutoCad.
+:four: Respeto el mantainable code o código sustentable<br/>
+:five: Me dedico a fabricar piezas de diversos materiales ya sea con fresadora, torno o impresora 3D <br/> 
+:six: Casi ingenierio y analista de sistemas.
 :seven: How to reach me : Mail me at ![](https://chxo.com/labelgen/labelgen.php?textval=+maxbasecode%40gmail.com&font=ARIAL.TTF&size=12&bgcolor=%23ffffff&textcolor=%23000000&submit=create+image)<br/>
 :eight: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
 :nine: Fun fact : Have been developing softwares for most part of my life
