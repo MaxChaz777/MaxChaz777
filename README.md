@@ -4,8 +4,8 @@
 Wanna nominate me as a <a href="https://stars.github.com/">GitHub Star</a> ? <a href="https://stars.github.com/nominate/">Here, you go !!</a> (My username is: MaxChaz777)
 [![-----------------------------------------------------](
 https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-<b>Bienvenidos !! </b><br/>
-algunas cosas sobre mí :<br/>
+<b>Bienvenidos !! </b><br/> algunas cosas sobre mí :<br/>
+
 :one: Programador de máquinas industriales ya sea en python o PLC<br/>
 :two: Soy desarrollador Full Stack<br/>
 :three: Soy técnico electromecánico, en Redes, soporte técnico y diseñador gráfico en AutoCad.
