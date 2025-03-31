@@ -16,8 +16,8 @@ https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 :five: Me dedico a fabricar piezas de diversos materiales ya sea con fresadora, torno o impresora 3D <br/> 
 :six: Casi ingenierio y analista de sistemas.<br/> 
 
-:seven: How to reach me : Mail me at ![]maxichazarreta1918@gmail.com <br/>
-:eight: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
+:seven: How to reach me : Mail me at ! maxichazarreta1918@gmail.com <br/>
+:eight: Ask me anything related to programming : <a href="https://github.com/BaseMax/BaseMax](https://github.com/MaxChaz777/issues/new?assignees=&labels=question&template=custom.md&title=Question%3A+%5BYour-Title%5D">here</a><br/> 
 :nine: Fun fact : Have been developing softwares for most part of my life<br/> 
 
  En mis tiempos libres escribo. Escribí dos libros y un ensayo sobre derecho y tecnologías. <br/> 
